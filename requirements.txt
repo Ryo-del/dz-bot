@@ -1,0 +1,1 @@
+echo "pyTelegramBotAPI" >> requirements.txt
