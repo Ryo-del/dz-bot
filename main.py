@@ -173,7 +173,7 @@ def edit_panel(message):
         types.InlineKeyboardButton("✏️ Русский язык", callback_data='edit_rus'),
         types.InlineKeyboardButton("✏️ Биология", callback_data='edit_biology'),
         types.InlineKeyboardButton("✏️ Литература", callback_data='edit_lith'),  
-        types.InlineKeyboardButton("✏️ Английский язык(113)", callback_data='edit_english_133'),
+        types.InlineKeyboardButton("✏️ Английский язык(113)", callback_data='edit_english_113'),
         types.InlineKeyboardButton("✏️ Английский язык(208)", callback_data='edit_english_208'),
         types.InlineKeyboardButton("✏️ История", callback_data='edit_history'),
         types.InlineKeyboardButton("✏️ Обществознание", callback_data='edit_society'),
