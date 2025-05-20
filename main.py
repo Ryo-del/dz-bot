@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "7582375690:AAHOzDEALtSjbiovqytc6cj0p1xwj_m_0nU"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 ADMINS = ["1362070521", "7489804706", "1651329326", "7838731891", "5232945440", "932682372", 
